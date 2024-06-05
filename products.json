@@ -1,0 +1,118 @@
+
+{
+
+"items": [
+    {
+        "sys": {"id":"1"},
+        "fields":{
+            "title":"queen panel bed",
+            "price":10.99,
+            "image":{"fields":{"file":{
+                "url":"./images/portfolio2.png"
+            }
+            }
+        }
+        }
+    },
+    {
+
+
+        "sys":{"id": "2"},
+        "fields":{
+            "title":"King Panel Bed",
+            "price":12.99,
+                "image": {"fields":{"file":{
+                "url":"./images/portfolio2.png"
+                } }}
+            }
+    },
+    {
+
+
+        "sys":{"id": "3"},
+        "fields":{
+            "title":"Single Panel Bed",
+            "price":12.99,
+                "image": {"fields":{"file":{
+                "url":"./images/portfolio2.png"
+                }
+                }
+                }
+            }
+    },
+
+    {
+
+
+        "sys":{"id": "4"},
+        "fields":{
+            "title":"Twin Panel Bed",
+            "price":22.99,
+                "image": {"fields":{"file":{
+                "url":"./images/portfolio2.png"
+                }
+                }
+                }
+            }
+    },
+    {
+
+
+        "sys":{"id": "5"},
+        "fields":{
+            "title":"Fridge",
+            "price":88.99,
+                "image": {"fields":{"file":{
+                "url":"./images/images1.jpg"
+                }
+                }
+                }
+            }
+    }
+    , {
+
+
+        "sys":{"id": "6"},
+        "fields":{
+            "title":"Dresser",
+            "price":32.99,
+                "image": {"fields":{"file":{
+                "url":"./images/images1.jpg"
+                }
+                }
+                }
+            }
+    },
+    {
+
+
+        "sys":{"id": "7"},
+        "fields":{
+            "title":"Couch",
+            "price":45.99,
+                "image": {"fields":{"file":{
+                "url":"./images/images1.jpg"
+                }
+                }
+                }
+            }
+    },
+    {
+
+
+        "sys":{"id": "7"},
+        "fields":{
+            "title":"Table",
+            "price":33.99,
+                "image": {"fields":{"file":{
+                "url":"./images/images1.jpg"
+                }
+                }
+                }
+            }
+    }
+
+
+
+]
+}
